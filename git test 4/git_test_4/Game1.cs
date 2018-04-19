@@ -34,7 +34,7 @@ namespace git_test_4
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-
+            Console.WriteLine("test");
             base.Initialize();
         }
 
