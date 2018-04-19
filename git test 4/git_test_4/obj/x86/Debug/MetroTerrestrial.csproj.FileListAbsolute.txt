@@ -1,0 +1,16 @@
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\bin\x86\Debug\git_test_4.exe
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\bin\x86\Debug\git_test_4.pdb
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\obj\x86\Debug\MetroTerrestrial.csprojResolveAssemblyReference.cache
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\obj\x86\Debug\git_test_4.exe
+C:\Users\matt\Desktop\new git test\git test 4\git test 4\git_test_4\obj\x86\Debug\git_test_4.pdb
